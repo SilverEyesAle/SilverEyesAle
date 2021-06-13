@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SilverEyesAle
+- 👀 I’m interested in Programming and Gaming
+- 🌱 I’m currently learning Python,Unity and C++
+- 💞️ I’m looking to collaborate on making a Game
